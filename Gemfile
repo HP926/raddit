@@ -3,6 +3,7 @@ ruby '2.2.1'
 
 gem 'bootstrap-sass', '~> 3.3.5'
 gem 'simple_form', '~>3.0.2'
+gem 'acts_as_votable', '~> 0.10.0'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
